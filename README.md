@@ -34,7 +34,7 @@ Además, también tengo conocimiento de otras tecnologías utilizadas en el ámb
 
 Os animo a explorar los proyectos de Machine Learning que he realizado. De momento, hay pocos proyectos disponibles, aunque ya estoy trabajando en nuevas ideas que estarán disponibles próximamente!
 
-<img src = "https://github.com/APintos2/Profile_info/blob/main/Images/projects_banner.png" width = 1000 height = 400/>
+<img src = "https://github.com/APintos2/Profile-info/blob/main/Images/projects_banner.png" width = 1000 height = 400/>
 
 ## 🤖 Proyectos de Machine Learning:
 
@@ -45,7 +45,7 @@ Esta sección contiene diferentes proyectos de aprendizaje automático. Siéntet
 
 🚙 [__Car Prices Prediction__](https://github.com/APintos2/streamlit_car_price) 
 
-<img src = "https://github.com/APintos2/Profile_info/blob/main/Images/car_pic.jpg" width = "250"/>
+<img src = "https://github.com/APintos2/Profile-info/blob/main/Images/car_pic.jpg" width = "250"/>
 
 * En este proyecto de aprendizaje automático, se predicen precios de vehículos de segunda mano en función de características como la potencia (CV), el kilometraje, la marca y otras características.
 
@@ -68,7 +68,7 @@ __Web scraping__ es el proceso de extraer datos de sitios web. Estos datos puede
 
 🏀 [__Dallas Mavericks EDA Web Scraping__](https://github.com/APintos2/mavs_eda) 
 
-<img src = "https://github.com/APintos2/Profile_info/blob/main/Images/mavs_logo.png" width = "250"/>
+<img src = "https://github.com/APintos2/Profile-info/blob/main/Images/mavs_logo.png" width = "250"/>
 
 
 * Proyecto de EDA (Exploratory Data Analysis) para mejorar el equipo de NBA Dallas Mavericks.
@@ -80,12 +80,12 @@ __Web scraping__ es el proceso de extraer datos de sitios web. Estos datos puede
 
 ## 🖥 Certificaciones:
 
-&emsp;&emsp; 🌱 [__Applied Data Science Specialization (V2)__ ![](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white) ](https://github.com/APintos2/Profile_info/blob/main/Certifications/AppliedDataScienceSpecializationV2_Badge20221024-46-59fdue.pdf)
+&emsp;&emsp; 🌱 [__Applied Data Science Specialization (V2)__ ![](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white) ](https://github.com/APintos2/Profile-info/blob/main/Certifications/AppliedDataScienceSpecializationV2_Badge20221024-46-59fdue.pdf)
 
 
 ## 🖥 CV:
 
-&emsp;&emsp; 📄 [__CV Alberto Pintos__](https://github.com/APintos2/Profile_info/blob/main/CV/CV_Alberto_Pintos_2023-12.pdf)
+&emsp;&emsp; 📄 [__CV Alberto Pintos__](https://github.com/APintos2/Profile-info/blob/main/CV/CV_Alberto_Pintos_2023-12.pdf)
 
 
 ## 🖥 Información de contacto:
