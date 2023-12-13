@@ -34,7 +34,7 @@ Además, también tengo conocimiento de otras tecnologías utilizadas en el ámb
 
 Os animo a explorar los proyectos de Machine Learning que he realizado. De momento, hay pocos proyectos disponibles, aunque ya estoy trabajando en nuevas ideas que estarán disponibles próximamente!
 
-<img src = "https://github.com/APintos2/Profile_info/Images/projects_banner.jpg" width = 1000 height = 400/>
+<img src = "https://github.com/APintos2/Profile_info/blob/main/Images/projects_banner.png" width = 1000 height = 400/>
 
 ## 🤖 Proyectos de Machine Learning:
 
@@ -45,7 +45,7 @@ Esta sección contiene diferentes proyectos de aprendizaje automático. Siéntet
 
 🚙 [__Car Prices Prediction__](https://github.com/APintos2/streamlit_car_price) 
 
-<img src = "https://github.com/APintos2/Profile_info/Images/car_pic.jpg" width = "750"/>
+<img src = "https://github.com/APintos2/Profile_info/blob/main/Images/car_pic.jpg" width = "750"/>
 
 * En este proyecto de aprendizaje automático, se predicen precios de vehículos de segunda mano en función de características como la potencia (CV), el kilometraje, la marca y otras características.
 
@@ -68,7 +68,7 @@ __Web scraping__ es el proceso de extraer datos de sitios web. Estos datos puede
 
 🏀 [__Dallas Mavericks EDA Web Scraping__](https://github.com/APintos2/mavs_eda) 
 
-<img src = "https://github.com/APintos2/Profile_info/Images/mavs_logo.png" width = "750"/>
+<img src = "https://github.com/APintos2/Profile_info/blob/main/Images/mavs_logo.png" width = "750"/>
 
 
 * Proyecto de EDA (Exploratory Data Analysis) para mejorar el equipo de NBA Dallas Mavericks.
