@@ -1,4 +1,4 @@
- <h1 align = "center">Hola, soy Alberto Pintos. Bienvenido a mi Portfolio! 👋</h1>
+ <h1 align = "center">Hola, soy Alberto Pintos. Bienvenid@ a mi Portfolio! 👋</h1>
 
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/apintos2)
 
@@ -11,11 +11,11 @@
 
 Mi nombre es Alberto Pintos, tengo 25 años y soy graduado en Física por la [__Universidad de Santiago de Compostela (USC)__](https://www.usc.gal/es). Tengo gran interés en la búsqueda de oportunidades laborales vinculadas con las disciplinas de matemáticas, datos y tecnología.
 
-Durante el período académico 2023-2024, cursé el Bootcamp de Data Science impartido por __TheBridge – Edem__. Esta experiencia ha sido fundamental para expandir mis conocimientos en el análisis de datos, machine learning y tecnologías Cloud. Asimismo, adquirí habilidades prácticas en herramientas de software de relevancia, como Python, Power BI, SQL, Git, AWS o Docker, entre otras.
+Durante el período académico 2023-2024, cursé el Bootcamp de Data Science impartido por __TheBridge – Edem__. Esta experiencia ha sido fundamental para expandir mis conocimientos en el análisis de datos, machine learning y tecnologías Cloud. Asimismo, adquirí habilidades prácticas en herramientas de software relevantes, como Python, Power BI, SQL, Git, AWS o Docker, entre otras.
 
 Además, he trabajado en la empresa __Repsol S.A.__, como becario en energía eólica. Este puesto me permitió trabajar con datos relacionados con dicha tecnología, además de elaborar informes con Excel y Power BI, para optimizar el funcionamiento de las plantas de generación de energía renovable.
 
-En la actualidad, estoy inmerso en la búsqueda de una posición como Data Analyst o Data Scientist que me permita aplicar y desarrollar mis habilidades en este campo, aprovechando los conocimientos y tecnologías mencionados.
+En la actualidad, estoy inmerso en la búsqueda de una posición como Data Scientist o Data Analyst, que me permita aplicar y desarrollar mis habilidades en este campo, aprovechando los conocimientos y tecnologías mencionados.
 
 
 <h2>💻 Mis Skills 😄:</h2>
