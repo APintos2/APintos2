@@ -90,7 +90,7 @@ __Web scraping__ es el proceso de extraer datos de sitios web. Estos datos puede
 
 ## 📫 Información de contacto:
 
-&emsp;&emsp; 📫 __Email:__ __APintos2@hotmail.com__
+&emsp;&emsp; 📧 __Email:__ __APintos2@hotmail.com__
 
 &emsp;&emsp; 📌 __LinkedIn:__ [__https://www.linkedin.com/in/apintos2__](https://www.linkedin.com/in/apintos2)
 
