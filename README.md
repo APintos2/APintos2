@@ -78,17 +78,17 @@ __Web scraping__ es el proceso de extraer datos de sitios web. Estos datos puede
 
 <hr style="border:0.01px solid blue">
 
-## 🖥 Certificaciones:
+## 🧾 Certificaciones:
 
 &emsp;&emsp; 🌱 [__Applied Data Science Specialization (V2)__ ![](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white) ](https://github.com/APintos2/Profile-info/blob/main/Certifications/AppliedDataScienceSpecializationV2_Badge20221024-46-59fdue.pdf)
 
 
-## 🖥 CV:
+## 🗒️ CV:
 
 &emsp;&emsp; 📄 [__CV Alberto Pintos__](https://github.com/APintos2/Profile-info/blob/main/CV/CV_Alberto_Pintos_2023-12.pdf)
 
 
-## 🖥 Información de contacto:
+## 📫 Información de contacto:
 
 &emsp;&emsp; 📫 __Email:__ __APintos2@hotmail.com__
 
